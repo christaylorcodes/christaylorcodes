@@ -1,6 +1,6 @@
 # Hi, I'm Chris Taylor
 
-**Network Operations Chief | vCTO | Automation Engineer**
+**Network Operations Chief | vCTO | Automation Engineer at i.t.NOW**
 Building powerful automation tools for MSPs and IT professionals.
 
 ## About Me
@@ -8,8 +8,9 @@ Building powerful automation tools for MSPs and IT professionals.
 I specialize in creating PowerShell modules and automation solutions for the MSP industry, with a focus on ConnectWise integrations and multi-tenant architectures. I'm passionate about leveraging AI and automation to solve complex technical challenges.
 
 - Location: Salt Lake City, UT
+- Company: i.t.NOW
 - Website: [christaylor.codes](https://christaylor.codes)
-- Currently: Network Operations Chief, vCTO, Automation Engineer
+- Roles: Network Operations Chief, vCTO, Automation Engineer
 
 ## Featured Projects
 
